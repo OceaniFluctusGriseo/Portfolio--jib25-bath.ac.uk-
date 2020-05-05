@@ -1,1 +1,2 @@
-
+In this 'C' file is an example C project I have worked on. 
+It is a simple text file editor, the comments in the source code should hopefully explain its functionality.
