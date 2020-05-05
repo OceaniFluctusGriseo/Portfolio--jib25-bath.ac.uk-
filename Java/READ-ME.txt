@@ -1,1 +1,3 @@
-
+In this folder is an example Java program I worked on, in which we created a chat server.
+It contains two source programs: one for the client and run for the server and
+utilises threads and sockets to function.
