@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpreadexShapeManager": {
+      "commandName": "Project",
+      "commandLineArgs": "/main"
+    }
+  }
+}

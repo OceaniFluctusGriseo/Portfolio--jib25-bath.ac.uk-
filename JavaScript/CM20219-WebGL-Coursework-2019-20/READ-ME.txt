@@ -1,9 +1,0 @@
-This is the source code and required files.
-The WebGL-Coursework.html file contains the functionality
-required for requirements 1-9 and will need to be run on
-a localhost server as it involves external files.
-The flappybird.html file is for requirement 10 and must
-be run separately. It needn't be run on a localhost
-server as it does not make use of external files.
-To play flappybird, press 'space' to 'flap' up
-and down to avoid the moving pipes.
